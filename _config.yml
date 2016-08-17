@@ -1,0 +1,14 @@
+layout_spectrum: 0.8543937315698713
+typography_spectrum: 0.5997505667619407
+color:
+  brandStrength: 0.6681329947896302
+  lightness: 0.39272281154990196
+  saturation: 0.8434457336552441
+  rhythmicContrast: 0.41822288651019335
+  brandColors:
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+name: shoplatein
